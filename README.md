@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=195&section=header&text=Arnav%20Bhardwaj&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Ex-ML%20Intern%20@%20DRDO%20%7C%209.76%20CGPA&descAlignY=65&descAlign=50&descSize=18&descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Arnav%20Bhardwaj&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Ex-ML%20Intern%20@%20DRDO%20%7C%209.76%20CGPA&descAlignY=65&descAlign=50&descSize=18&descColor=ffffff" width="100%"/>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-Driven+Solutions;Crafting+Scalable+Full+Stack+Apps;Gen+AI+Enthusiast;Competitive+Programmer+(LeetCode+1700%2B)" />
 </div>
