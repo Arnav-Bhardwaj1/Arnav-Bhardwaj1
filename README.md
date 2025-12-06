@@ -58,10 +58,10 @@ Most recently, I worked as a **Machine Learning Intern at DRDO**, building analy
 
 | **Project** | **Description** | **Tech Stack** |
 |------------|-----------------|----------------|
-| **FarmSphere** | **AI-Driven Smart Farming Platform.** ML-powered crop disease detection, AI chatbot for personalized guidance, real-time weather alerts, and market price insights. | `React` `Node.js` `TensorFlow.js` `Computer Vision` `AI` |
+| **FarmSphere** | **AI-Driven Smart Farming Platform.** ML-powered crop disease detection, AI chatbot for personalized guidance, real-time weather alerts, and market price insights. | `React.js` `Node.js` `TensorFlow.js` `Computer Vision` `AI` |
 | **Finova** | **AI-Powered Personal Finance Manager.** Real-time expense tracking, smart categorization, financial dashboards, and AI budgeting assistant. | `React.js` `MongoDB` `Node.js` `Express.js` `AI Chatbot` |
-| **AstroGuard** | **Earth’s Sentinel – Asteroid Impact Simulator.** 3D visualization using NASA Sentry API + physics-based impact simulations. | `Python` `Flask` `React` `Three.js` `TypeScript` |
-| **TaskFlow** | **Task Management Platform.** JWT authentication, analytics dashboard, advanced filtering & real-time UI updates. | `React 18` `Node.js` `Express` `MongoDB` |
+| **AstroGuard** | **Earth’s Sentinel – Asteroid Impact Simulator.** 3D visualization using NASA Sentry API + physics-based impact simulations. | `Python` `Flask` `React.js` `Three.js` `TypeScript` |
+| **TaskFlow** | **Task Management Platform.** JWT authentication, analytics dashboard, advanced filtering & real-time UI updates. | `React.js` `Node.js` `Express` `MongoDB` |
 
 ---
 
