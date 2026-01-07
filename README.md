@@ -69,7 +69,7 @@ Most recently, I worked as a **Machine Learning Intern at DRDO**, building analy
 
 - **Top 10 Finalist** – TECHNOV8 Hackathon  
 - **Oracle Cloud Certified** – Gen AI Professional  
-- **700+ LeetCode Problems Solved** (Rating: **1700+**) 
+- **750+ DSA Problems Solved** (Rating: **1750+ on LeetCode**) 
 
 ---
 
