@@ -1,27 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Arnav%20Bhardwaj&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=AI%20%26amp%3B%20Full-Stack%20Developer&descAlignY=65&descSize=18&descColor=ffffff&v=6" width="100%"/>
+  <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Arnav%20Bhardwaj&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=AI%20%26amp%3B%20Full-Stack%20Developer&descAlignY=65&descSize=18&descColor=ffffff&v=7" width="100%"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-Driven+Solutions;Crafting+Scalable+Full%20Stack%20Apps;Gen%20AI%20Enthusiast;Competitive%20Programmer+(LeetCode+1750%2B)" />
+  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-Driven+Solutions;Crafting+Scalable+Full%20Stack%20Apps;Gen%20AI%20Enthusiast;Competitive%20Programmer+(LeetCode+1750%2B)" />
 
   <div>
     <strong>Ex-ML Intern @ DRDO | Ex-Full Stack Intern @ Cogzin Technologies</strong>
   </div>
 
-  <div style="margin-top:8px;">
-    <img src="https://komarev.com/ghpvc/?username=Arnav-Bhardwaj1&color=004e92&style=flat-square&label=Profile+Views"/>
-    <a href="https://leetcode.com/u/ArnavBhardwaj/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black"/>
-    </a>
-    <a href="https://linkedin.com/in/-arnavbhardwaj">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:arnavbhardwaj111@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
-    </a>
-    <a href="https://portfolio-arnav1.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Vercel&logoColor=white"/>
-    </a>
+  <img alt="" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1' height='8'></svg>" />
+
+  <div>
+    <img alt="profile views" src="https://komarev.com/ghpvc/?username=Arnav-Bhardwaj1&color=004e92&style=flat-square&label=Profile+Views"/>
+    <a href="https://leetcode.com/u/ArnavBhardwaj/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black"/></a>
+    <a href="https://linkedin.com/in/-arnavbhardwaj"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:arnavbhardwaj111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <a href="https://portfolio-arnav1.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Vercel&logoColor=white"/></a>
   </div>
+</div>
 
 
 ---
