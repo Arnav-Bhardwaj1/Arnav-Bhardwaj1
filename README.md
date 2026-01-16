@@ -1,15 +1,14 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Arnav%20Bhardwaj&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=AI%20%26%20Full-Stack%20Developer&descAlignY=65&descSize=18&descColor=ffffff&v=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Arnav%20Bhardwaj&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=AI%20%26amp%3B%20Full-Stack%20Developer&descAlignY=65&descSize=18&descColor=ffffff&v=5" width="100%"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-Driven+Solutions;Crafting+Scalable+Full+Stack+Apps;Gen+AI+Enthusiast;Competitive+Programmer+(LeetCode+1750%2B)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-Driven+Solutions;Crafting+Scalable+Full%20Stack%20Apps;Gen%20AI%20Enthusiast;Competitive%20Programmer+(LeetCode+1750%2B)" />
 </div>
 
 <br/>
 
 <div align="center">
 
-🎓 **Rank 1 across all branches | 9.81 CGPA**  
- **Ex-Intern @ DRDO & Cogzin Technologies**
+**Ex-ML Intern @ DRDO & Ex-Full Stack Intern @ Cogzin Technologies**
 
 </div>
 
@@ -29,7 +28,7 @@
 
 ### About Me
 
-I am a pre-final year **Computer Science undergrad** with a **9.81 CGPA** and **Rank 1 across all branches**. My passion lies in engineering secure, innovative solutions by integrating **Gen AI**, **Deep Learning**, **RAG pipelines**, and **Full-stack development**.
+I am a pre-final year **Computer Science undergrad** with a **9.81 CGPA** and **Ranked 1st across all branches within my institution**. My passion lies in engineering secure, innovative solutions by integrating **Gen AI**, **Deep Learning**, **RAG pipelines**, and **Full-stack development**.
 
 I've secured **Perfect 10.0 GPA in 3rd and 5th Semesters**, demonstrating consistent academic excellence. Most recently, I worked as a **Machine Learning Intern at DRDO**, building analytical tools for defence applications, and as a **Full Stack Developer Intern at Cogzin Technologies**, developing AI-enabled platforms.
 
