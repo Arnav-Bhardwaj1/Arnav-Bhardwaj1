@@ -1,27 +1,16 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Arnav%20Bhardwaj&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=AI%20%26amp%3B%20Full-Stack%20Developer&descAlignY=65&descSize=18&descColor=ffffff&v=5" width="100%"/>
-
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-Driven+Solutions;Crafting+Scalable+Full%20Stack%20Apps;Gen%20AI%20Enthusiast;Competitive%20Programmer+(LeetCode+1750%2B)" />
-</div>
-
-<br/>
-
-<div align="center">
-
-**Ex-ML Intern @ DRDO & Ex-Full Stack Intern @ Cogzin Technologies**
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Arnav-Bhardwaj1&color=004e92&style=flat-square&label=Profile+Views)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ArnavBhardwaj/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/-arnavbhardwaj)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:arnavbhardwaj111@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Vercel&logoColor=white)](https://portfolio-arnav1.vercel.app)
-
+  <div>
+    **Ex-ML Intern @ DRDO | Ex-Full Stack Intern @ Cogzin Technologies**
+  </div>
+  <div>
+    ![Profile Views](https://komarev.com/ghpvc/?username=Arnav-Bhardwaj1&color=004e92&style=flat-square&label=Profile+Views)
+    [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ArnavBhardwaj/)
+    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/-arnavbhardwaj)
+    [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:arnavbhardwaj111@gmail.com)
+    [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Vercel&logoColor=white)](https://portfolio-arnav1.vercel.app)
+  </div>
 </div>
 
 ---
