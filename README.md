@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Arnav%20Bhardwaj&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=AI%20%26%20Full-Stack%20Developer&descAlignY=65&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Arnav%20Bhardwaj&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=AI%20%26%20Full-Stack%20Developer&descAlignY=65&descSize=18&descColor=ffffff&v=2" width="100%"/>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-Driven+Solutions;Crafting+Scalable+Full+Stack+Apps;Gen+AI+Enthusiast;Competitive+Programmer+(LeetCode+1750%2B)" />
 </div>
@@ -9,7 +9,7 @@
 <div align="center">
 
 🎓 **Rank 1 across all branches | 9.81 CGPA**  
-🏢 **Ex-Intern @ DRDO & Cogzin Technologies**
+ **Ex-Intern @ DRDO & Cogzin Technologies**
 
 </div>
 
