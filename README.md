@@ -7,7 +7,7 @@
     <strong>Ex-ML Intern @ DRDO | Ex-Full Stack Intern @ Cogzin Technologies</strong>
   </div>
 
-  <div>
+  <div style="margin-top:8px;">
     <img src="https://komarev.com/ghpvc/?username=Arnav-Bhardwaj1&color=004e92&style=flat-square&label=Profile+Views"/>
     <a href="https://leetcode.com/u/ArnavBhardwaj/">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black"/>
@@ -22,7 +22,6 @@
       <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Vercel&logoColor=white"/>
     </a>
   </div>
-</div>
 
 
 ---
