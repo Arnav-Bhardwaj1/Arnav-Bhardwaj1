@@ -1,17 +1,27 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Arnav%20Bhardwaj&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Ex-Intern%20%40%20DRDO%20%26%20Cogzin%20Technologies%20%7C%209.81%20CGPA&descAlignY=65&descAlign=50&descSize=18&descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Arnav%20Bhardwaj&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=AI%20%26%20Full-Stack%20Developer&descAlignY=65&descSize=18&descColor=ffffff" width="100%"/>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-Driven+Solutions;Crafting+Scalable+Full+Stack+Apps;Gen+AI+Enthusiast;Competitive+Programmer+(LeetCode+1750%2B)" />
 </div>
 
+<br/>
 
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Arnav-Bhardwaj1&color=004e92&style=flat-square&label=Profile+Views)
-  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ArnavBhardwaj/)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/-arnavbhardwaj)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:arnavbhardwaj111@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Vercel&logoColor=white)](https://portfolio-arnav1.vercel.app)
+🎓 **Rank 1 across all branches | 9.81 CGPA**  
+🏢 **Ex-Intern @ DRDO & Cogzin Technologies**
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Arnav-Bhardwaj1&color=004e92&style=flat-square&label=Profile+Views)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ArnavBhardwaj/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/-arnavbhardwaj)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:arnavbhardwaj111@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Vercel&logoColor=white)](https://portfolio-arnav1.vercel.app)
 
 </div>
 
@@ -42,15 +52,15 @@ I've secured **Perfect 10.0 GPA in 3rd and 5th Semesters**, demonstrating consis
 
 ### 💼 Experience
 
-**Intern - Full Stack Developer | Cogzin Technologies**  
+**Intern – Full Stack Developer | Cogzin Technologies**  
 *Nov 2025 – Jan 2026*  
-- Developed full-stack core modules of an **AI-enabled investor-founder matchmaking platform**, including company onboarding workflows, admin approval systems, and subscription-based access control.
-- Implemented an **AI-driven navigation assistant** using **Pinecone vector search** and OpenAI, enabling automatic filtering, sorting, and seamless page navigation to relevant company profiles.
+- Developed full-stack core modules of an **AI-enabled investor–founder matchmaking platform**, including onboarding workflows, admin approval systems, and subscription-based access control.
+- Implemented an **AI-driven navigation assistant** using **Pinecone vector search** and OpenAI for intelligent filtering and seamless navigation.
 
-**Intern - Machine Learning | DRDO**  
+**Intern – Machine Learning | DRDO**  
 *May 2025 – Aug 2025*  
-- Designed and implemented a **RAG pipeline** using **FAISS**, Hugging Face Transformers, and OpenAI to query and summarize unstructured data on Air Force weapons for analytical presentation.
-- Engineered an interactive weather analysis and prediction system for **41 Indian Air Force airbases** using Tkinter and geospatial mapping, delivering **15-day forecasts** and enhancing mission-route feasibility assessments, resulting in improvement in operational planning efficiency.
+- Designed and implemented a **RAG pipeline** using **FAISS**, Hugging Face Transformers, and OpenAI for querying unstructured defence data.
+- Engineered a weather analysis and prediction system for **41 Indian Air Force airbases**, delivering **15-day forecasts** to improve operational planning efficiency.
 
 ---
 
@@ -58,27 +68,27 @@ I've secured **Perfect 10.0 GPA in 3rd and 5th Semesters**, demonstrating consis
 
 | **Project** | **Description** | **Tech Stack** |
 |------------|-----------------|----------------|
-| **FarmSphere** | **AI-Driven Smart Farming Application.** Built an on-device ML Crop Health Scanner (TFLite) for instant leaf disease diagnosis and remediation steps. Integrated an AI chatbot for personalized farming advice, real-time weather alerts, market price aggregation, and location retrieval. Designed with Riverpod state management, local caching, and multilingual voice input/output. | `Flutter` `TFLite` `Generative AI` `SQL` `Riverpod` `Voice I/O` |
-| **Finova** | **AI-Powered Personal Finance Manager.** Real-time expense tracking, smart categorization, financial dashboards, and AI budgeting assistant. | `React.js` `MongoDB` `Node.js` `Express.js` `AI Chatbot` |
-| **AstroGuard** | **Earth's Sentinel – Asteroid Impact Simulator.** 3D visualization using NASA Sentry API + physics-based impact simulations. | `Python` `Flask` `React.js` `Three.js` `TypeScript` |
-| **TaskFlow** | **Task Management Platform.** JWT authentication, analytics dashboard, advanced filtering & real-time UI updates. | `React.js` `Node.js` `Express` `MongoDB` |
+| **FarmSphere** | AI-driven smart farming app with on-device ML crop health scanner, AI chatbot, real-time weather alerts, and multilingual voice I/O. | `Flutter` `TFLite` `Generative AI` `SQL` `Riverpod` |
+| **Finova** | AI-powered personal finance manager with expense tracking, dashboards, and budgeting assistant. | `React.js` `MongoDB` `Node.js` `Express.js` |
+| **AstroGuard** | 3D asteroid impact simulator using NASA Sentry API and physics-based modeling. | `Python` `Flask` `React.js` `Three.js` |
+| **TaskFlow** | Task management platform with JWT auth, analytics dashboard, and real-time UI updates. | `React.js` `Node.js` `MongoDB` |
 
 ---
 
 ### 🏆 Achievements & Coding Stats
 
-- **Rank 1 across all branches** at Maharaja Agrasen Institute of Technology
-- **Perfect 10.0 GPA** in 3rd & 5th Semesters
+- **Rank 1 across all branches** – MAIT  
+- **Perfect 10.0 GPA** in 3rd & 5th Semesters  
 - **Top 10 Finalist** – TECHNOV8 Hackathon  
 - **Oracle Cloud Certified** – Gen AI Professional  
-- **750+ DSA Problems Solved** (Rating: **1750+ on LeetCode**) 
+- **750+ DSA problems solved** (LeetCode **1750+**)
 
 ---
 
 ### 📈 LeetCode Activity
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/ArnavBhardwaj?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/ArnavBhardwaj?theme=dark&font=Fira%20Code&ext=heatmap" />
 </div>
 
 ---
