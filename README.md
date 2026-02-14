@@ -89,14 +89,7 @@ I've secured **Perfect 10.0 GPA in 3rd and 5th Semesters**, demonstrating consis
 
 ### 📊 GitHub Activity Graph
 <div align="center">
-  <img alt="GitHub Contribution Heatmap" src="https://raw.githubusercontent.com/Arnav-Bhardwaj1/Arnav-Bhardwaj1/output/static-heatmap.svg" width="100%">
-</div>
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arnav-Bhardwaj1&bg_color=0d1117&color=00C9FF&line=00C9FF&point=FFFFFF&hide_border=true" width="100%"/>
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
