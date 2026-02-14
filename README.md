@@ -75,7 +75,7 @@ I've secured **Perfect 10.0 GPA in 3rd and 5th Semesters**, demonstrating consis
 - **Perfect 10.0 GPA** in 3rd & 5th Semesters  
 - **Top 10 Finalist** – TECHNOV8 Hackathon  
 - **Oracle Cloud Certified** – Gen AI Professional  
-- **750+ DSA problems solved** (LeetCode **1750+**)
+- **900+ DSA problems solved** (LeetCode **1850+ Contest Rating**)
 
 ---
 
@@ -88,7 +88,10 @@ I've secured **Perfect 10.0 GPA in 3rd and 5th Semesters**, demonstrating consis
 ---
 
 ### 📊 GitHub Activity Graph
-
+<!-- GitHub contributions heatmap -->
+<div align="center">
+  <img src="https://ghchart.rshah.org/Arnav-Bhardwaj1" alt="GitHub contribution chart"/>
+</div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arnav-Bhardwaj1&bg_color=0d1117&color=00C9FF&line=00C9FF&point=FFFFFF&hide_border=true" width="100%"/>
 </div>
