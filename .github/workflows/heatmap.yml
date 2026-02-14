@@ -1,0 +1,27 @@
+name: Generate Static Heatmap
+
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+  workflow_dispatch: 
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write 
+    
+    steps:
+      - name: Generate static dark-mode calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: static-heatmap.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: output
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+          config_timezone: Asia/Kolkata
