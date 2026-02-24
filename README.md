@@ -62,10 +62,10 @@ I've secured **Perfect 10.0 GPA in 3rd and 5th Semesters**, demonstrating consis
 
 | **Project** | **Description** | **Tech Stack** |
 |------------|-----------------|----------------|
+| **CogniFlow** | Full-stack workflow automation platform with visual node-based editor, multi-trigger execution engine, AI-generated workflows, background job orchestration, and SaaS billing. | `Next.js` `TypeScript` `tRPC` `Prisma` `PostgreSQL` `React Flow` `Inngest` `AI SDK` |
 | **FarmSphere** | AI-driven smart farming app with on-device ML crop health scanner, AI chatbot, real-time weather alerts, and multilingual voice I/O. | `Flutter` `TFLite` `Generative AI` `SQL` `Riverpod` |
 | **Finova** | AI-powered personal finance manager with expense tracking, dashboards, and budgeting assistant. | `React.js` `MongoDB` `Node.js` `Express.js` |
 | **AstroGuard** | 3D asteroid impact simulator using NASA Sentry API and physics-based modeling. | `Python` `Flask` `React.js` `Three.js` |
-| **TaskFlow** | Task management platform with JWT auth, analytics dashboard, and real-time UI updates. | `React.js` `Node.js` `MongoDB` |
 
 ---
 
