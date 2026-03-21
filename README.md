@@ -55,8 +55,11 @@ and context-aware navigation to relevant company profiles, improving user discov
 
 **Intern – Machine Learning | DRDO**  
 *May 2025 – Aug 2025*  
-- Designed and implemented a **RAG pipeline** using **FAISS**, Hugging Face Transformers, and OpenAI for querying unstructured defence data.
-- Engineered a weather analysis and prediction system for **41 Indian Air Force airbases**, delivering **15-day forecasts** to improve operational planning efficiency.
+- Designed and implemented a **RAG pipeline** using **FAISS, Hugging Face Transformers, and OpenAI** to query and summarize
+unstructured data on Air Force weapons for analytical presentation.
+- Engineered an interactive **weather analysis and prediction system** for **41** Indian Air Force airbases using Tkinter and geospa-
+tial mapping, delivering **15-day forecasts** and enhancing mission-route feasibility assessments, resulting in improved opera-
+tional planning efficiency.
 
 ---
 
