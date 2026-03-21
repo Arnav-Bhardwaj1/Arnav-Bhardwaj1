@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Arnav%20Bhardwaj&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=AI%20%26amp%3B%20Full-Stack%20Developer&descAlignY=65&descSize=18&descColor=ffffff&v=7" width="100%"/>
+  <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Arnav%20Bhardwaj&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=AI%20Engineer%20%26amp%3B%20Full-Stack%20Developer&descAlignY=65&descSize=18&descColor=ffffff&v=7" width="100%"/>
 
   <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-Driven+Solutions;Crafting+Scalable+Full%20Stack%20Apps;Gen%20AI%20Enthusiast;Competitive%20Programmer+(LeetCode+1850%2B)" />
 
@@ -48,8 +48,10 @@ I've secured **Perfect 10.0 GPA in 3rd and 5th Semesters**, demonstrating consis
 
 **Intern – Full Stack Developer | Cogzin Technologies**  
 *Nov 2025 – Jan 2026*  
-- Developed full-stack core modules of an **AI-enabled investor–founder matchmaking platform**, including onboarding workflows, admin approval systems, and subscription-based access control.
-- Implemented an **AI-driven navigation assistant** using **Pinecone vector search** and OpenAI for intelligent filtering and seamless navigation.
+- Developed full-stack core modules of an **AI-enabled venture capital platform** connecting investors and founders, including
+onboarding workflows, admin approvals, subscription-based access control, and a **config-driven admin panel.**
+- Implemented an **AI-driven navigation assistant** using **Pinecone** and **OpenAI**, enabling semantic search, intelligent filtering,
+and context-aware navigation to relevant company profiles, improving user discovery and interaction efficiency.
 
 **Intern – Machine Learning | DRDO**  
 *May 2025 – Aug 2025*  
