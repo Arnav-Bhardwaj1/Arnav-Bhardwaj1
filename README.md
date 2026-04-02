@@ -1,7 +1,7 @@
 <div align="center">
   <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Arnav%20Bhardwaj&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=AI%20Engineer%20%26amp%3B%20Full-Stack%20Developer&descAlignY=65&descSize=18&descColor=ffffff&v=7" width="100%"/>
 
-  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-Driven+Solutions;Crafting+Scalable+Full%20Stack%20Apps;Gen%20AI%20Enthusiast;Competitive%20Programmer+(LeetCode+1850%2B)" />
+  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-Driven+Solutions;Crafting+Scalable+Full%20Stack%20Apps;Gen%20AI%20Enthusiast;Competitive%20Programmer+(LeetCode+Knight)" />
 
   <div>
     <strong>Ex-ML Intern @ DRDO | Ex-Full Stack Intern @ Cogzin Technologies</strong>
@@ -17,7 +17,6 @@
     <a href="https://portfolio-arnav1.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Vercel&logoColor=white"/></a>
   </div>
 </div>
-
 
 ---
 
@@ -38,7 +37,7 @@ I've secured **Perfect 10.0 GPA in 3rd and 5th Semesters**, demonstrating consis
 | **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) |
-| **AI & Tools** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white) ![Gen AI](https://img.shields.io/badge/-Gen%20AI-000000?logo=openai&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+| **AI & Tools** | ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=scikit-learn&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white) ![Gen AI](https://img.shields.io/badge/-Gen%20AI-000000?logo=openai&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
 
 </div>
 
@@ -46,20 +45,11 @@ I've secured **Perfect 10.0 GPA in 3rd and 5th Semesters**, demonstrating consis
 
 ### 💼 Experience
 
-**Intern – Full Stack Developer | Cogzin Technologies**  
-*Nov 2025 – Jan 2026*  
-- Developed full-stack core modules of an **AI-enabled venture capital platform** connecting investors and founders, including
-onboarding workflows, admin approvals, subscription-based access control, and a **config-driven admin panel.**
-- Implemented an **AI-driven navigation assistant** using **Pinecone** and **OpenAI**, enabling semantic search, intelligent filtering,
-and context-aware navigation to relevant company profiles, improving user discovery and interaction efficiency.
+**Intern – Full Stack Developer | Cogzin Technologies** *Nov 2025 – Jan 2026* - Developed full-stack core modules of an **AI-enabled venture capital platform** connecting investors and founders, including onboarding workflows, admin approvals, subscription-based access control, and a **config-driven admin panel.**
+- Implemented an **AI-driven navigation assistant** using **Pinecone** and **OpenAI**, enabling semantic search, intelligent filtering, and context-aware navigation to relevant company profiles, improving user discovery and interaction efficiency.
 
-**Intern – Machine Learning | DRDO**  
-*May 2025 – Aug 2025*  
-- Designed and implemented a **RAG pipeline** using **FAISS, Hugging Face Transformers, and OpenAI** to query and summarize
-unstructured data on Air Force weapons for analytical presentation.
-- Engineered an interactive **weather analysis and prediction system** for **41** Indian Air Force airbases using Tkinter and geospa-
-tial mapping, delivering **15-day forecasts** and enhancing mission-route feasibility assessments, resulting in improved opera-
-tional planning efficiency.
+**Intern – Machine Learning | DRDO** *May 2025 – Aug 2025* - Designed and implemented a **RAG pipeline** using **FAISS, Hugging Face Transformers, and OpenAI** to query and summarize unstructured data on Air Force weapons for analytical presentation.
+- Engineered an interactive **weather analysis and prediction system** for **41** Indian Air Force airbases using Tkinter and geospatial mapping, delivering **15-day forecasts** and enhancing mission-route feasibility assessments, resulting in improved operational planning efficiency.
 
 ---
 
@@ -67,10 +57,10 @@ tional planning efficiency.
 
 | **Project** | **Description** | **Tech Stack** |
 |------------|-----------------|----------------|
-| **CogniFlow** | Full-stack workflow automation platform with visual node-based editor, multi-trigger execution engine, AI-generated workflows, background job orchestration, and SaaS billing. | `Next.js` `TypeScript` `tRPC` `Prisma` `PostgreSQL` `React Flow` `Inngest` `AI SDK` |
-| **FarmSphere** | AI-driven smart farming app with on-device ML crop health scanner, AI chatbot, real-time weather alerts, and multilingual voice I/O. | `Flutter` `TFLite` `Generative AI` `SQL` `Riverpod` |
-| **Finova** | AI-powered personal finance manager with expense tracking, dashboards, and budgeting assistant. | `React.js` `MongoDB` `Node.js` `Express.js` |
-| **AstroGuard** | 3D asteroid impact simulator using NASA Sentry API and physics-based modeling. | `Python` `Flask` `React.js` `Three.js` |
+| **CogniFlow** | Architected an event-driven workflow automation platform featuring a visual node-editor, AI-powered natural language to workflow generation, and robust SaaS billing architecture. Engineered secure multi-trigger orchestration using Inngest and tRPC for end-to-end data integrity and seamless third-party integrations. | `Next.js` `TypeScript` `tRPC` `Prisma` `PostgreSQL` `React Flow` `Inngest` `AI SDK` |
+| **FarmSphere** | Engineered a comprehensive AgTech solution integrating on-device Machine Learning for high-precision crop disease diagnostics. Deployed a sophisticated multi-agent LLM architecture to deliver hyper-personalized, real-time multilingual agricultural intelligence and predictive weather alerts. | `Flutter` `TFLite` `Generative AI` `SQL` `Riverpod` |
+| **Perceptron** | Developed a multi-tenant B2B AI support ecosystem. Engineered a secure cross-origin embeddable widget with real-time Convex synchronization, RAG-powered intelligent workflows, and seamless voice/chat capabilities, complete with usage-based billing and live operator triage. | `Next.js` `Convex` `Clerk` `OpenAI` `VAPI` `Turborepo` |
+| **AstroGuard** | Developed an immersive, high-performance 3D asteroid impact simulation engine. Leveraged the NASA Sentry API and advanced physics-based mathematical modeling to render real-time, interactive geospatial visualizations. | `Python` `Flask` `React.js` `Three.js` |
 
 ---
 
@@ -80,7 +70,7 @@ tional planning efficiency.
 - **Perfect 10.0 GPA** in 3rd & 5th Semesters  
 - **Top 10 Finalist** – TECHNOV8 Hackathon  
 - **Oracle Cloud Certified** – Gen AI Professional  
-- **900+ DSA problems solved** (LeetCode **1850+ Contest Rating**)
+- **900+ DSA problems solved** (LeetCode **Knight**)
 
 ---
 
@@ -96,5 +86,3 @@ tional planning efficiency.
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arnav-Bhardwaj1&bg_color=0d1117&color=00C9FF&line=00C9FF&point=FFFFFF&hide_border=true" width="100%"/>
 </div>
-
-
