@@ -19,7 +19,7 @@
 <div align="center">
 
 Building production-ready software and AI systems with LLMs, APIs, and scalable architectures.<br><br>
-📈 **550+ GitHub commits** & **71 Merged PRs** (last 6 months)<br>
+📈 **550+ GitHub commits** (last 6 months)<br>
 ⚔️ **900+ DSA problems solved** (LeetCode Knight)<br>
 🎓 **CGPA: 9.81** (Rank 1, 2x 10.0 GPA)
 
@@ -51,7 +51,7 @@ I am a pre-final year **Computer Science undergrad** with a passion for engineer
 
 | **Project** | **Description** | **Tech Stack** |
 |------------|-----------------|----------------|
-| **CogniFlow** | Scalable full-stack workflow automation platform with a visual node-based editor, multi-trigger execution, seamless SaaS billing, and an AI-powered natural language workflow generator. Link: https://thecogniflow.in | `Next.js` `TypeScript` `tRPC` `Prisma` `PostgreSQL` |
+| **CogniFlow** | Scalable full-stack workflow automation platform with a visual node-based editor, multi-trigger execution, seamless SaaS billing, and an AI-powered natural language workflow generator. | `Next.js` `TypeScript` `tRPC` `Prisma` `PostgreSQL` |
 | **FarmSphere** | AI-powered smart farming application featuring an on-device ML crop disease diagnostics system and a multilingual multi-agent LLM chatbot for real-time agricultural advice. | `Flutter` `Generative AI` `SQLite` `REST APIs` |
 | **Perceptron** | Enterprise-grade multi-tenant B2B AI support platform featuring an embeddable cross-origin widget with persistent chat, voice sessions, real-time operator triage, and usage-based billing. | `Next.js` `Convex` `Clerk` `OpenAI` `VAPI` |
 
