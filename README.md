@@ -1,7 +1,7 @@
 <div align="center">
   <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=150&section=header&text=Arnav%20Bhardwaj&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=AI%20Engineer%20%26amp%3B%20Full-Stack%20Developer&descAlignY=65&descSize=16&descColor=ffffff&v=7" width="100%"/>
 
-  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-Driven+Solutions;Crafting+Scalable+Full%20Stack%20Apps;Gen%20AI%20Enthusiast;Competitive%20Programmer+(LeetCode+Knight)" />
+  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-Driven+Solutions;Crafting+Scalable+Full%20Stack%20Apps;Competitive%20Programmer+(LeetCode+Knight)" />
 
   <img alt="" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1' height='8'></svg>" />
 
@@ -29,9 +29,9 @@ Building production-ready software and AI systems with LLMs, APIs, and scalable 
 
 ### 👨‍💻 About Me
 
-I am a pre-final year **Computer Science undergrad** with a passion for engineering secure, innovative solutions. My focus is on integrating **Gen AI**, **Deep Learning**, **RAG pipelines**, and **Software development**.
+I am a pre-final year **Computer Science undergrad** with a passion for engineering secure, innovative solutions. My focus is on building **AI-powered systems** using LLMs, RAG pipelines, deep learning, and scalable full-stack software engineering architectures.
 
-**Core Stack:** AI Agents, RAG | Machine Learning, Deep Learning | TypeScript (Next.js, Node.js), Python (FastAPI) | MongoDB, PostgreSQL
+**Core Stack:** AI Agents, RAG Systems | Machine Learning, Deep Learning | TypeScript (Next.js, Node.js), Python (FastAPI) | MongoDB, PostgreSQL
 
 ---
 
@@ -42,7 +42,8 @@ I am a pre-final year **Computer Science undergrad** with a passion for engineer
 - Implemented an **AI-driven navigation assistant** using **Pinecone** and **OpenAI**, enabling semantic search, intelligent filtering, and context-aware navigation to relevant company profiles, improving user discovery and interaction efficiency.
 
 **Ex-Intern – Machine Learning | DRDO** *(May 2025 – Aug 2025)* 
-- Designed and implemented a **RAG pipeline** using **FAISS, Hugging Face Transformers, and OpenAI** to query and summarize unstructured data on Air Force weapons for analytical presentation.
+- Implemented a production-grade, secure on-prem **RAG pipeline** using **FAISS** and **locally hosted LLMs** to analyze unstructured
+defense documents, optimizing retrieval accuracy, latency, and inference reliability.
 - Engineered an interactive **weather analysis and prediction system** for **41** Indian Air Force airbases using Tkinter and geospatial mapping, delivering **15-day forecasts** and enhancing mission-route feasibility assessments, resulting in improved operational planning efficiency.
 
 ---
@@ -52,7 +53,7 @@ I am a pre-final year **Computer Science undergrad** with a passion for engineer
 | **Project** | **Description** | **Tech Stack** |
 |------------|-----------------|----------------|
 | **CogniFlow** | Scalable full-stack workflow automation platform with a visual node-based editor, multi-trigger execution, seamless SaaS billing, and an AI-powered natural language workflow generator. | `Next.js` `TypeScript` `tRPC` `Prisma` `PostgreSQL` |
-| **FarmSphere** | AI-powered smart farming application featuring an on-device ML crop disease diagnostics system and a multilingual multi-agent LLM chatbot for real-time agricultural advice. | `Flutter` `Generative AI` `SQLite` `REST APIs` |
+| **FarmSphere** | AI-powered smart farming application featuring an on-device ML crop disease diagnostics system and a multilingual multi-agent AI system for real-time agricultural assistance and crop diagnostics. | `Flutter` `Generative AI` `SQLite` `REST APIs` |
 | **Perceptron** | Enterprise-grade multi-tenant B2B AI support platform featuring an embeddable cross-origin widget with persistent chat, voice sessions, real-time operator triage, and usage-based billing. | `Next.js` `Convex` `Clerk` `OpenAI` `VAPI` |
 
 ---
