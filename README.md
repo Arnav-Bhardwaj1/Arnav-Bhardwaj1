@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=150&section=header&text=Arnav%20Bhardwaj&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=AI%20Engineer%20%26amp%3B%20Full-Stack%20Developer&descAlignY=65&descSize=16&descColor=ffffff&v=7" width="100%"/>
+  <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=150&section=header&text=Arnav%20Bhardwaj&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=AI%20Engineer%20%26amp%3B%20Software%20Developer&descAlignY=65&descSize=16&descColor=ffffff&v=7" width="100%"/>
 
   <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-Driven+Solutions;Crafting+Scalable+Full%20Stack%20Apps;Competitive%20Programmer+(LeetCode+Knight)" />
 
@@ -18,9 +18,9 @@
 
 <div align="center">
 
-Building production-ready software and AI systems with LLMs, APIs, and scalable architectures.<br><br>
+Building production-ready software and intelligent AI systems with LLMs, APIs, and scalable architectures.<br><br>
 📈 **550+ GitHub commits** (last 6 months)<br>
-⚔️ **900+ DSA problems solved** (LeetCode Knight)<br>
+⚔️ **1100+ DSA problems solved** (LeetCode Knight)<br>
 🎓 **CGPA: 9.81** (Rank 1, 2x 10.0 GPA)
 
 </div>
@@ -29,9 +29,9 @@ Building production-ready software and AI systems with LLMs, APIs, and scalable 
 
 ### 👨‍💻 About Me
 
-I am a pre-final year **Computer Science undergrad** with a passion for engineering secure, innovative solutions. My focus is on building **AI-powered systems** using LLMs, RAG pipelines, deep learning, and scalable full-stack software engineering architectures.
+I am an AI Engineer & Software Developer focused on building scalable products, intelligent systems, and impactful AI-powered solutions.
 
-**Core Stack:** AI Agents, RAG Systems | Machine Learning, Deep Learning | TypeScript (Next.js, Node.js), Python (FastAPI) | MongoDB, PostgreSQL
+**Core Stack:** AI Agents, RAG Systems | TypeScript (Next.js, Node.js), Python (FastAPI) | Machine Learning, Deep Learning | MongoDB, PostgreSQL
 
 ---
 
