@@ -29,9 +29,9 @@ Building production-ready software and intelligent AI systems with LLMs, APIs, a
 
 ### 👨‍💻 About Me
 
-I am an AI Engineer & Software Developer focused on building scalable products, intelligent systems, and impactful AI-powered solutions.
+I am an AI Engineer & Software Developer focused on building scalable products, intelligent systems, and production-ready AI-powered solutions that solve real-world problems.
 
-**Core Stack:** AI Agents, RAG Systems | TypeScript (Next.js, Node.js), Python (FastAPI) | Machine Learning, Deep Learning | MongoDB, PostgreSQL
+**Core Stack:** AI Agents, RAG Systems | TypeScript (Next.js, Node.js), Python (FastAPI) | Machine Learning, Deep Learning | MongoDB, PostgreSQL | REST APIs, Workflow Automation
 
 ---
 
